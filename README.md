@@ -3,3 +3,4 @@ Eric Nakamoto
 Updates for commit 2
 Updates for commit 3
 Feature a super cool additions
+Feature b super awesome additions
